@@ -1,0 +1,9 @@
+.DS_Store
+migration-tp
+# Ignore IDEA sensitive files.
+.idea/workspace.xml
+.idea/dataSources*
+# Ignore SQLite databases.
+*.db
+devoir10
+db
